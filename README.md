@@ -24,18 +24,21 @@ Colorfle is an innovative color mixing puzzle game inspired by Wordle, where pla
 - Practice your color mixing skills with unlimited puzzles
 - Each refresh brings a new challenge
 - Perfect for learning and experimenting
+- [Visit here](https://colorfle.app)
 
 ### 📅 Colorfle Daily
 - New puzzle every day at midnight
 - Same challenge worldwide
 - Track your daily solving streak
 - Compare results with players globally
+- [Visit here](https://colorfle.app/daily)
 
 ### 🎨 Custom Colorfle
 - Create your own color mixing challenges
 - Share custom puzzles with friends
 - Join a community of color enthusiasts
 - Design unique combinations to challenge others
+- [Visit here](https://colorfle.app/create)
 
 ## Key Features
 
